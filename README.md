@@ -105,6 +105,3 @@
 </div>
 </td></tr>
 </tbody></table>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anytodo92" alt="anytod92" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anytodo92&show_icons=true&theme=synthwave" alt="anytod92" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anytodo92&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="anytod92" /></p>
